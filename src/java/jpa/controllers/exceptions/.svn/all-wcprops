@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/netbeans-samples~samples/!svn/ver/12/NB65/Web/ConsultingAgency/src/java/jpa/controllers/exceptions
+END
+IllegalOrphanException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/netbeans-samples~samples/!svn/ver/13/NB65/Web/ConsultingAgency/src/java/jpa/controllers/exceptions/IllegalOrphanException.java
+END
+RollbackFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/netbeans-samples~samples/!svn/ver/13/NB65/Web/ConsultingAgency/src/java/jpa/controllers/exceptions/RollbackFailureException.java
+END
+NonexistentEntityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/netbeans-samples~samples/!svn/ver/13/NB65/Web/ConsultingAgency/src/java/jpa/controllers/exceptions/NonexistentEntityException.java
+END
+PreexistingEntityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/netbeans-samples~samples/!svn/ver/13/NB65/Web/ConsultingAgency/src/java/jpa/controllers/exceptions/PreexistingEntityException.java
+END

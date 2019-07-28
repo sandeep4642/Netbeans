@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/netbeans-samples~samples/!svn/ver/12/NB65/Web/ConsultingAgency/src/java/jpa/controllers
+END
+RecruiterJpaController.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/netbeans-samples~samples/!svn/ver/12/NB65/Web/ConsultingAgency/src/java/jpa/controllers/RecruiterJpaController.java
+END
+AddressJpaController.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/netbeans-samples~samples/!svn/ver/12/NB65/Web/ConsultingAgency/src/java/jpa/controllers/AddressJpaController.java
+END
+BillableJpaController.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/netbeans-samples~samples/!svn/ver/12/NB65/Web/ConsultingAgency/src/java/jpa/controllers/BillableJpaController.java
+END
+ProjectJpaController.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/netbeans-samples~samples/!svn/ver/12/NB65/Web/ConsultingAgency/src/java/jpa/controllers/ProjectJpaController.java
+END
+ConsultantJpaController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/netbeans-samples~samples/!svn/ver/12/NB65/Web/ConsultingAgency/src/java/jpa/controllers/ConsultantJpaController.java
+END
+ClientJpaController.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/netbeans-samples~samples/!svn/ver/12/NB65/Web/ConsultingAgency/src/java/jpa/controllers/ClientJpaController.java
+END
+ConsultantStatusJpaController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/netbeans-samples~samples/!svn/ver/12/NB65/Web/ConsultingAgency/src/java/jpa/controllers/ConsultantStatusJpaController.java
+END
